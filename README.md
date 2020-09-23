@@ -2,7 +2,7 @@
 ---
 A repository with scripts to crack any password. 
 <br>
-# [!!] USE WITH RESPONSIBILITY.
+# USE WITH RESPONSIBILITY.
 
 ---
 To use test this library, enter a password in the `permutation` script, and wait.
@@ -17,3 +17,4 @@ Keep a few points in mind:
 * Quite time consuming in PyPy3 also.
 * Any password can be cracked.
 
+**The developer is NOT responsible** for misuse of this program for unethical use  by any user  . This is intended for **EDUCATIONAL PURPOSES ONLY**.
