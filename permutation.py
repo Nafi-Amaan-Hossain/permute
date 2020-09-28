@@ -31,11 +31,11 @@ def cracker(passarg):
                 for a4 in chars:
                     password_buffer += a4
                     if password_buffer == password:
-                        print('Password is: ' , password); sys.exit;
+                        print('Password is: ' , password_buffer); sys.exit;
                     for a5 in chars:
                         password_buffer += a5
                         if password_buffer == password:
-                            print('Password is: ' , password); sys.exit;
+                            print('Password is: ' , password_buffer); sys.exit;
                         for a6 in chars:
                             password_buffer += a6
                             if password_buffer == password:
