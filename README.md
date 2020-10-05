@@ -1,4 +1,4 @@
-# passcracker
+# decrypter
 ---
 A repository with scripts to decrypt. 
 <br>
